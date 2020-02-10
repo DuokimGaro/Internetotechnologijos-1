@@ -1,0 +1,59 @@
+<!doctype html>
+
+<html>
+<head>
+<title>
+Laboratorinis
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8" >
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<body>
+    
+<img src="front_page_PNG.png" alt="Front page image" width="100%" height="100%">
+<header>
+    <nav>
+    <div class="logo">
+        <img src="VIZZY_logo.png" alt="Logo image">
+    </div>
+        <ul>
+            <div class="navbutton">
+            <li><a class="active" href="#home">HOME</a</li>
+            <li><a href="#products">PRODUCTS</a></li>
+            <li><a href="#templates">TEMPLATES</a></li>
+            <li><a href="#pricing">PRICING</a></li>
+            <li><a href="#signin">SIGN IN</a></li>
+            <li><a href="#singup">SING UP</a></li>
+            </div>
+        </ul>
+    </nav>
+    <div class = "content" >
+        <h1>
+            Create Stunning <br> Visual Media
+        </h1>
+        <p>
+            Super simple tool to create trendy videos and pictures <br> for your ads, social media, blogs and websites.<br>
+            Make your project stand out!
+        </p>
+    </div>
+        <div class ="create" >
+        <button>
+            Create Design ➝
+        </button>
+    </div> 
+    
+    
+</header>
+
+</body>
+<footer>
+    <div class = "page">
+        <input type="radio" , name="select" checked >
+        <input type="radio" , name="select"  >
+        <input type="radio" , name="select"  >
+        <input type="radio" , name="select"  >
+
+
+    </div>
+</footer>
+</html>
